@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+.conda/
+.venv/
+.vscode/
+
+backend/.hc_backend
+backend/api/migrations/*
+
+frontend/.hc_frontend
+.aider*
+frontend/.streamlit/secrets.toml
